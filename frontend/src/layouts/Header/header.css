@@ -1,0 +1,90 @@
+@media(max-width: 768px) {
+    .navlogo>h1{
+        font-size: 25px;
+        color: black;
+        margin-top: -30px;
+    }
+    .searchbar{
+        margin-left: -120px;
+    }
+    .search{
+        width: 150px !important;
+    }
+    .search>form{
+        width: 150px !important;
+    }
+    .sidebarImg{
+        width: 50px;
+        height: 70px;
+        border-radius: 50%;
+    }
+}
+
+@media(max-width: 600px) {
+    .searchbar{
+        margin-left: -150px;
+    }
+    .search{
+        width: 150px !important;
+    }
+    .search>form{
+        width: 150px !important;
+    }
+    input[type='search']{
+        width: 250px;
+    }
+    .sidebarImg{
+        width: 40px;
+        height: 70px;
+        border-radius: 50%;
+    }
+}
+
+@media (max-width: 568px) {
+    .searchbar{
+        margin-left: -130px;
+    }
+    .search{
+        width: 150px !important;
+    }
+    .search>form{
+        width: 150px !important;
+    }
+    input[type='search']{
+        width: 250px;
+    }
+    .sidebarImg{
+        width: 40px;
+        height: 70px;
+        border-radius: 50%;
+    }
+}
+
+@media(max-width: 384px) {
+    img{
+        width: 120px!important;
+    }
+    .searchbar{
+        margin-left: -140px;
+    }
+    .search{
+        width: 150px !important;
+    }
+    .search>form{
+        width: 150px !important;
+    }
+    input[type='search']{
+        width: 150px;
+    }
+    .sidebarImg{
+        width: 40px;
+        height: 70px;
+        border-radius: 50%;
+    }
+    /* .right .hamburgur {
+        position: absolute;
+        z-index: 999;
+      } */
+
+    
+  }

@@ -1,0 +1,12 @@
+col {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+.row{
+  margin: 0 !important;
+  padding: 0 !important;
+  width: 100% !important;
+}
